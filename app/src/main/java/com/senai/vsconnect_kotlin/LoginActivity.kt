@@ -16,7 +16,6 @@ import org.json.JSONObject
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
-import retrofit2.create
 import java.nio.charset.StandardCharsets
 import java.util.Base64
 
